@@ -15,7 +15,7 @@ This code borrows from [Cheng-Lin-Li](https://github.com/Cheng-Lin-Li)'s [work](
 
 ### Environment: 
   
-            Keras version >> 2.2.4; tensorflow(Keras backend) >> 1.3.0
+            Keras version >> 2.2.4; tensorflow(Keras backend) >> 1.3.0; [Python 2.7]
             
 ## Notes
 1. The problem of version mismatch was modified, and the model was applied to my own 2D dataset. The training and testing was successful.
